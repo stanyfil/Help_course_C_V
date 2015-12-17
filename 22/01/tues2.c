@@ -21,7 +21,7 @@ int main()
     u1=it*r1;
     u4=u-u1;
     i2=u4/r4;
-    i1=it-i1;
+    i1=it-i2;
     u2=i1*r2;
     u3=i1*r3;
     printf("\n u1=%f",u1);
